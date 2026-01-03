@@ -12,3 +12,4 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 
 - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial)
 - [Continuous deployment for Oracle APEX: 10-minute tutorial](https://pretius.com/blog/apex-continuous-deployment)
+- [Oracle APEX CI/CD: Step-by-step guide aligned to the APEX Application Lifecycle Technical Paper](https://pretius.com/blog/oracle-apex-ci-cd)
