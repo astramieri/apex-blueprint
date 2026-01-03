@@ -6,6 +6,7 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 
 - [How to build an Oracle APEX application](https://gpaulissen.github.io/blog/oracle-apex-how-to-build-1/)
 - [10 things you must include in your next Oracle APEX project](https://insum.talan.com/10-things-to-include-in-your-next-oracle-apex-project/)
+- [Good and bad practices at APEX! Analysis and PoC](https://dgrabinski.hashnode.dev/part-1-good-and-bad-practices-at-apex-analysis-and-poc)
 
 ## Deployment
 
