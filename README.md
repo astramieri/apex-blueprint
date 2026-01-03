@@ -5,3 +5,4 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 ## 🎯 Links
 
 - [10 things you must include in your next Oracle APEX project](https://insum.talan.com/10-things-to-include-in-your-next-oracle-apex-project/)
+- [Continuous deployment for Oracle APEX: 10-minute tutorial](https://pretius.com/blog/apex-continuous-deployment)
