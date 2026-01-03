@@ -5,6 +5,7 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 ## 🎯 Links
 
 - [10 things you must include in your next Oracle APEX project](https://insum.talan.com/10-things-to-include-in-your-next-oracle-apex-project/)
+- [How to build an Oracle APEX application](https://gpaulissen.github.io/blog/oracle-apex-how-to-build-1/)
 
 ## 🔧 Tutorial
 
