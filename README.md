@@ -10,7 +10,7 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 
 ## Deployment
 
-- [Understanding the APEX Application Development Lifecycle](https://www.youtube.com/watch?v=MilbA_yyIHk)
+- [YouTube: Understanding the APEX Application Development Lifecycle](https://www.youtube.com/watch?v=MilbA_yyIHk)
 - [Understanding the Oracle APEX Application Development Lifecycle](https://www.oracle.com/a/tech/docs/apex-lifecycle-management-v3.pdf)
 - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial)
 - [Continuous deployment for Oracle APEX: 10-minute tutorial](https://pretius.com/blog/apex-continuous-deployment)
