@@ -18,3 +18,7 @@ A curated collection of links, tools, and best practices for **Oracle APEX devel
 - [Oracle APEX App Deployments made easy: Use the ORDS REST APIs](https://blogs.oracle.com/apex/oracle-apex-app-deployments-made-easy-use-the-ords-rest-apis)
 - [Building a REST API to Deploy APEX Apps](https://blogs.oracle.com/apex/building-a-rest-api-to-deploy-apex-apps)
 - [SQLcl Projects: CI/CD Made Easy for APEX](https://www.youtube.com/watch?v=EM3_2Dd3LOs)
+
+## Extras
+
+- [Export/Import APEX Scripts](https://apex.oracle.com/go/lifecycle-technical-paper-files)
